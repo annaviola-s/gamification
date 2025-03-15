@@ -1,0 +1,30 @@
+h3{
+    color:rgb(33, 56, 124);
+    font-size:34px;
+}
+button{
+    background-color:rgb(33, 56, 124);
+    color:white;
+    padding:5px 10px;
+    cursor:pointer;
+}
+
+.box{
+    width:80px;
+    height:80px;
+    background:lightgreen;
+    margin:20px;
+    padding: 10px;
+    border: 2px solid black;
+    float:left;
+}
+
+#mbox{
+    width:80px;
+    height:80px;
+    background:violet;
+    margin:20px;
+    padding: 10px;
+    border: 2px solid black;
+    float:left;
+}
